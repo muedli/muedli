@@ -4,5 +4,5 @@
 
 * Liam Mulhall
 * Math Student at CU Boulder
-* PhET Simulations
+* PhET Interactive Simulations
 * he/him/his
