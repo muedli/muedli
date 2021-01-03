@@ -1,4 +1,4 @@
-# Hello! 👋🏻
+# Hello! 🐀
 
 ![Liam Sticker](./liam-sticker.png)
 
