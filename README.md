@@ -1,6 +1,4 @@
-# 🐀
-
-## Hi, my name is Liam.
+# Hi!
 
 ![Liam Sticker](./liam-sticker.png)
 
