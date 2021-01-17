@@ -1,6 +1,6 @@
 # Hi!
 
-![M.C. Escher's Circle Limit III](./circle-limit-iii.png)
+![M.C. Escher's Circle Limit III](./circle-limit-iii.jpg)
 
 * Math Student at CU Boulder
 * PhET Interactive Simulations
