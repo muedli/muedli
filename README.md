@@ -15,7 +15,23 @@
 * he/him/his
 
 <details>
-<summary><h2>Buffalo-Shaped Pools</h2></summary>
+<summary><b>About Me</b></summary>
+</details>
+
+<details>
+<summary><b>Educational Career</b></summary>
+</details>
+
+<details>
+<summary><b>Interests</b></summary>
+</details>
+
+<details>
+<summary><b>Projects</b></summary>
+</details>
+
+<details>
+<summary><b>Buffalo-Shaped Pools</b></summary>
 I've been thinking about starting a petition to get at least five new
 [buffalo-shaped pools]() built on Sko' Buffs University's Boulder campus. I
 can't really think of anything else the university should be spending money
